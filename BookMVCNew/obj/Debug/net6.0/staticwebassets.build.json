@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lJ1oNmHyV68Mg4sd3HGugQZW8cKqdhMWJx987yJXvKs=",
+  "Hash": "WHdJnrq4/mzdb4Azab3XYd4gqL0CAsBsitwSmJuBi3I=",
   "Source": "BookMVCNew",
   "BasePath": "_content/BookMVCNew",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\acer\\OneDrive\\C#\\BookMVCNew\\BookMVCNew\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BookMVCNew.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\acer\\OneDrive\\C#\\BookMVCNew\\BookMVCNew\\wwwroot\\css\\BootStrapThemeMaterial.css",
+      "SourceId": "BookMVCNew",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\C#\\BookMVCNew\\BookMVCNew\\wwwroot\\",
+      "BasePath": "_content/BookMVCNew",
+      "RelativePath": "css/BootStrapThemeMaterial.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\BootStrapThemeMaterial.css"
     },
     {
       "Identity": "C:\\Users\\acer\\OneDrive\\C#\\BookMVCNew\\BookMVCNew\\wwwroot\\css\\site.css",
